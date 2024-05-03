@@ -1,0 +1,90 @@
+[INFO ] 2024-05-03 16:18:06.966 [main] Voice - Url oepned
+[INFO ] 2024-05-03 16:18:07.016 [main] Voice - Login page displayed succesfully
+[INFO ] 2024-05-03 16:18:07.210 [main] Voice - User entered Email ID succesfully
+[INFO ] 2024-05-03 16:18:07.349 [main] Voice - User entered Password succesfully
+[INFO ] 2024-05-03 16:18:07.765 [main] Voice - User succesfully clicked on Sign IN button
+[INFO ] 2024-05-03 16:18:09.190 [main] Voice - verifyLogin - passed
+[INFO ] 2024-05-03 16:18:09.328 [main] Voice - Login page displayed succesfully
+[INFO ] 2024-05-03 16:19:09.407 [main] Voice - My Campaign module is visible
+[INFO ] 2024-05-03 16:19:09.532 [main] Voice - My Campaign module clicked succesfully
+[INFO ] 2024-05-03 16:19:09.606 [main] Voice - Create Campaign button clicked succesfully
+[INFO ] 2024-05-03 16:19:09.728 [main] Voice - Campaign name entered succesfully
+[INFO ] 2024-05-03 16:19:09.796 [main] Voice - Contacts file uploaded succesfully
+[INFO ] 2024-05-03 16:19:19.859 [main] Voice - Next Button clicked sucessfully
+[INFO ] 2024-05-03 16:19:20.031 [main] Voice - verifyJrnyTxt - passed
+[INFO ] 2024-05-03 16:19:20.209 [main] Voice - SMS Channel selected sucessfully
+[INFO ] 2024-05-03 16:19:20.376 [main] Voice - SMS template selected sucessfully
+[INFO ] 2024-05-03 16:19:20.445 [main] Voice - Duration entered sucessfully
+[INFO ] 2024-05-03 16:19:20.536 [main] Voice - Action button clicked succesfully
+[INFO ] 2024-05-03 16:19:20.668 [main] Voice - Email channel selected sucessfully
+[INFO ] 2024-05-03 16:19:20.811 [main] Voice - Email template selected sucessfully
+[INFO ] 2024-05-03 16:19:20.882 [main] Voice - Duration entered sucessfully
+[INFO ] 2024-05-03 16:19:20.973 [main] Voice - Submit button clicked sucessfully
+[INFO ] 2024-05-03 16:19:21.002 [main] Voice - vrifySucesTxt - passed
+[INFO ] 2024-05-03 16:24:22.822 [main] Voice - Url oepned
+[INFO ] 2024-05-03 16:24:22.892 [main] Voice - Login page displayed succesfully
+[INFO ] 2024-05-03 16:24:23.045 [main] Voice - User entered Email ID succesfully
+[INFO ] 2024-05-03 16:24:23.149 [main] Voice - User entered Password succesfully
+[INFO ] 2024-05-03 16:24:23.323 [main] Voice - User succesfully clicked on Sign IN button
+[INFO ] 2024-05-03 16:24:24.842 [main] Voice - verifyLogin - passed
+[INFO ] 2024-05-03 16:24:24.863 [main] Voice - Login page displayed succesfully
+[INFO ] 2024-05-03 16:25:24.894 [main] Voice - My Campaign module is visible
+[INFO ] 2024-05-03 16:25:25.007 [main] Voice - My Campaign module clicked succesfully
+[INFO ] 2024-05-03 16:25:25.127 [main] Voice - Create Campaign button clicked succesfully
+[INFO ] 2024-05-03 16:25:25.234 [main] Voice - Campaign name entered succesfully
+[INFO ] 2024-05-03 16:25:25.295 [main] Voice - Contacts file uploaded succesfully
+[INFO ] 2024-05-03 16:25:35.388 [main] Voice - Next Button clicked sucessfully
+[INFO ] 2024-05-03 16:25:35.550 [main] Voice - verifyJrnyTxt - passed
+[INFO ] 2024-05-03 16:25:35.709 [main] Voice - SMS Channel selected sucessfully
+[INFO ] 2024-05-03 16:25:35.871 [main] Voice - SMS template selected sucessfully
+[INFO ] 2024-05-03 16:25:35.941 [main] Voice - Duration entered sucessfully
+[INFO ] 2024-05-03 16:25:36.008 [main] Voice - Action button clicked succesfully
+[INFO ] 2024-05-03 16:25:36.142 [main] Voice - Email channel selected sucessfully
+[INFO ] 2024-05-03 16:25:36.307 [main] Voice - Email template selected sucessfully
+[INFO ] 2024-05-03 16:25:36.393 [main] Voice - Duration entered sucessfully
+[INFO ] 2024-05-03 16:25:36.538 [main] Voice - Submit button clicked sucessfully
+[INFO ] 2024-05-03 16:25:36.569 [main] Voice - vrifySucesTxt - passed
+[INFO ] 2024-05-03 16:31:02.358 [main] Voice - Url oepned
+[INFO ] 2024-05-03 16:31:02.407 [main] Voice - Login page displayed succesfully
+[INFO ] 2024-05-03 16:31:02.574 [main] Voice - User entered Email ID succesfully
+[INFO ] 2024-05-03 16:31:02.698 [main] Voice - User entered Password succesfully
+[INFO ] 2024-05-03 16:31:03.154 [main] Voice - User succesfully clicked on Sign IN button
+[INFO ] 2024-05-03 16:31:05.053 [main] Voice - verifyLogin - passed
+[INFO ] 2024-05-03 16:31:05.076 [main] Voice - My Campaign module is visible
+[INFO ] 2024-05-03 16:31:05.679 [main] Voice - My Campaign module clicked succesfully
+[INFO ] 2024-05-03 16:31:05.903 [main] Voice - Create Campaign button clicked succesfully
+[INFO ] 2024-05-03 16:31:06.008 [main] Voice - Campaign name entered succesfully
+[INFO ] 2024-05-03 16:31:06.067 [main] Voice - Contacts file uploaded succesfully
+[INFO ] 2024-05-03 16:31:16.144 [main] Voice - Next Button clicked sucessfully
+[INFO ] 2024-05-03 16:31:16.308 [main] Voice - verifyJrnyTxt - passed
+[INFO ] 2024-05-03 16:31:16.519 [main] Voice - SMS Channel selected sucessfully
+[INFO ] 2024-05-03 16:31:16.679 [main] Voice - SMS template selected sucessfully
+[INFO ] 2024-05-03 16:31:16.746 [main] Voice - Duration entered sucessfully
+[INFO ] 2024-05-03 16:31:16.820 [main] Voice - Action button clicked succesfully
+[INFO ] 2024-05-03 16:31:17.017 [main] Voice - Email channel selected sucessfully
+[INFO ] 2024-05-03 16:31:17.208 [main] Voice - Email template selected sucessfully
+[INFO ] 2024-05-03 17:17:19.670 [main] Voice - Url oepned
+[INFO ] 2024-05-03 17:17:19.720 [main] Voice - Login page displayed succesfully
+[INFO ] 2024-05-03 17:17:19.859 [main] Voice - User entered Email ID succesfully
+[INFO ] 2024-05-03 17:17:19.980 [main] Voice - User entered Password succesfully
+[INFO ] 2024-05-03 17:17:20.215 [main] Voice - User succesfully clicked on Sign IN button
+[INFO ] 2024-05-03 17:17:22.376 [main] Voice - verifyLogin - passed
+[INFO ] 2024-05-03 17:25:59.162 [main] Voice - Url oepned
+[INFO ] 2024-05-03 17:25:59.212 [main] Voice - Login page displayed succesfully
+[INFO ] 2024-05-03 17:25:59.318 [main] Voice - User entered Email ID succesfully
+[INFO ] 2024-05-03 17:25:59.410 [main] Voice - User entered Password succesfully
+[INFO ] 2024-05-03 17:25:59.490 [main] Voice - User succesfully clicked on Sign IN button
+[INFO ] 2024-05-03 17:26:00.981 [main] Voice - verifyLogin - passed
+[INFO ] 2024-05-03 17:26:00.994 [main] Voice - My Campaign module is visible
+[INFO ] 2024-05-03 17:26:01.718 [main] Voice - My Campaign module clicked succesfully
+[INFO ] 2024-05-03 17:26:01.902 [main] Voice - Create Campaign button clicked succesfully
+[INFO ] 2024-05-03 17:26:01.985 [main] Voice - Campaign name entered succesfully
+[INFO ] 2024-05-03 17:26:02.041 [main] Voice - Contacts file uploaded succesfully
+[INFO ] 2024-05-03 17:26:12.130 [main] Voice - Next Button clicked sucessfully
+[INFO ] 2024-05-03 17:26:12.578 [main] Voice - verifyJrnyTxt - passed
+[INFO ] 2024-05-03 17:26:12.737 [main] Voice - SMS Channel selected sucessfully
+[INFO ] 2024-05-03 17:26:12.899 [main] Voice - SMS template selected sucessfully
+[INFO ] 2024-05-03 17:26:12.964 [main] Voice - Duration entered sucessfully
+[INFO ] 2024-05-03 17:26:13.037 [main] Voice - Action button clicked succesfully
+[INFO ] 2024-05-03 17:26:13.218 [main] Voice - Email channel selected sucessfully
+[INFO ] 2024-05-03 17:26:13.386 [main] Voice - Email template selected sucessfully
